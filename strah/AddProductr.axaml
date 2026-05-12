@@ -1,0 +1,21 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="strah.AddProductr"
+        x:CompileBindings="False"
+        Title="AddProductr">
+  <StackPanel>
+      <TextBox Watermark="Article" Text="{Binding Article}"></TextBox>
+      <TextBox Text="{Binding Productname}"></TextBox>
+      <TextBox Text="{Binding Cost}"></TextBox>
+      <TextBox Text="{Binding SupplierId}"></TextBox>
+      <TextBox Text="{Binding ManufacturerId}"></TextBox>
+      <TextBox Text="{Binding Description}"></TextBox>
+
+      <Button Content="Добавить новый товар" Click="Button_Click"></Button>
+      <Button Content="Сохранить измененные данные" Click="Button_Click1"></Button>
+
+  </StackPanel>
+</Window>

@@ -5,6 +5,7 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="strah.Window1"
         x:CompileBindings="False"
+        
         Title="Window1">
   
 
@@ -20,8 +21,8 @@
         
 
         <StackPanel Grid.Column="2" Orientation="Horizontal">
-            <Button Content="Добавить товар"></Button>
-            <Button Content="Выйти"></Button>
+            <Button Click="AddProd_Click" Name="AddProd" Content="Добавить товар"></Button>
+            <Button Click="Button_Click_1" Content="Выйти"></Button>
         </StackPanel>
 
 
@@ -33,6 +34,8 @@
                         <TextBlock Text="{Binding Description}"></TextBlock>
                         <TextBlock Text="{Binding Productname}"></TextBlock>
                         <TextBlock Text="{Binding Manufacturer.Manufacturername}"/>
+
+                        <Button Click="Button_Click" Content="Удалить" Tag="{Binding ProductId}"></Button>
                     </StackPanel>
                 </DataTemplate>
             </ListBox.ItemTemplate>

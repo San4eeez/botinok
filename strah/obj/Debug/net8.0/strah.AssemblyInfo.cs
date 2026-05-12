@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("strah")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+152fb08854e8b194945e4e7badc367f5ad408a72")]
 [assembly: System.Reflection.AssemblyProductAttribute("strah")]
 [assembly: System.Reflection.AssemblyTitleAttribute("strah")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

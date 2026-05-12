@@ -157,3 +157,4 @@ C:\Users\admin\source\repos\strah\strah\bin\Debug\net8.0\Images\1.png
 C:\Users\admin\source\repos\strah\strah\bin\Debug\net8.0\Images\2.png
 C:\Users\admin\source\repos\strah\strah\bin\Debug\net8.0\Images\3.png
 C:\Users\admin\source\repos\strah\strah\bin\Debug\net8.0\Images\picture.png
+C:\Users\admin\source\repos\strah\strah\bin\Debug\net8.0\Images\round-table.ico

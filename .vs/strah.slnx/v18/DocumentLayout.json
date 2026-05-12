@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\strah\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|c:\\users\\admin\\source\\repos\\strah\\strah\\saveuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|solutionrelative:strah\\saveuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|c:\\users\\admin\\source\\repos\\strah\\strah\\window1.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|solutionrelative:strah\\window1.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|c:\\users\\admin\\source\\repos\\strah\\strah\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|solutionrelative:strah\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|c:\\users\\admin\\source\\repos\\strah\\strah\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|solutionrelative:strah\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|c:\\users\\admin\\source\\repos\\strah\\strah\\window1.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|solutionrelative:strah\\window1.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|c:\\users\\admin\\source\\repos\\strah\\strah\\addproductr.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|solutionrelative:strah\\addproductr.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|c:\\users\\admin\\source\\repos\\strah\\strah\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|solutionrelative:strah\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|c:\\users\\admin\\source\\repos\\strah\\strah\\addproductr.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|solutionrelative:strah\\addproductr.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|c:\\users\\admin\\source\\repos\\strah\\strah\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|solutionrelative:strah\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|c:\\users\\admin\\source\\repos\\strah\\strah\\saveuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|solutionrelative:strah\\saveuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|c:\\users\\admin\\source\\repos\\strah\\strah\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|solutionrelative:strah\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ED383EF-0B0D-1DD5-E1DF-237FE9DEABC9}|strah\\strah.csproj|c:\\users\\admin\\source\\repos\\strah\\strah\\context\\cruzakcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,8 +54,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddProductr.axaml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\strah\\strah\\AddProductr.axaml",
+              "RelativeDocumentMoniker": "strah\\AddProductr.axaml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\strah\\strah\\AddProductr.axaml",
+              "RelativeToolTip": "strah\\AddProductr.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T14:30:52.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProductr.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\strah\\strah\\AddProductr.axaml.cs",
+              "RelativeDocumentMoniker": "strah\\AddProductr.axaml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\strah\\strah\\AddProductr.axaml.cs",
+              "RelativeToolTip": "strah\\AddProductr.axaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T14:30:52.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window1.axaml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\strah\\strah\\Window1.axaml",
+              "RelativeDocumentMoniker": "strah\\Window1.axaml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\strah\\strah\\Window1.axaml",
+              "RelativeToolTip": "strah\\Window1.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T10:55:32.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window1.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\strah\\strah\\Window1.axaml.cs",
+              "RelativeDocumentMoniker": "strah\\Window1.axaml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\strah\\strah\\Window1.axaml.cs",
+              "RelativeToolTip": "strah\\Window1.axaml.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowG4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:55:31.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\strah\\strah\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "strah\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\strah\\strah\\Models\\Product.cs",
+              "RelativeToolTip": "strah\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:01:32.501Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -63,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CruzakContext.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\strah\\strah\\Context\\CruzakContext.cs",
               "RelativeDocumentMoniker": "strah\\Context\\CruzakContext.cs",
@@ -71,12 +142,11 @@
               "RelativeToolTip": "strah\\Context\\CruzakContext.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAtwBwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T12:37:12.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T12:37:12.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\strah\\strah\\Models\\Order.cs",
               "RelativeDocumentMoniker": "strah\\Models\\Order.cs",
@@ -84,50 +154,11 @@
               "RelativeToolTip": "strah\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T12:20:47.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T12:20:47.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\strah\\strah\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "strah\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\strah\\strah\\Models\\Product.cs",
-              "RelativeToolTip": "strah\\Models\\Product.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAmwDEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T11:01:32.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Window1.axaml",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\strah\\strah\\Window1.axaml",
-              "RelativeDocumentMoniker": "strah\\Window1.axaml",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\strah\\strah\\Window1.axaml",
-              "RelativeToolTip": "strah\\Window1.axaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T10:55:32.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Window1.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\strah\\strah\\Window1.axaml.cs",
-              "RelativeDocumentMoniker": "strah\\Window1.axaml.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\strah\\strah\\Window1.axaml.cs",
-              "RelativeToolTip": "strah\\Window1.axaml.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAUwD4AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T10:55:31.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "SaveUser.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\strah\\strah\\SaveUser.cs",
               "RelativeDocumentMoniker": "strah\\SaveUser.cs",
@@ -140,19 +171,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "MainWindow.axaml",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\strah\\strah\\MainWindow.axaml",
               "RelativeDocumentMoniker": "strah\\MainWindow.axaml",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\strah\\strah\\MainWindow.axaml",
               "RelativeToolTip": "strah\\MainWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T10:46:13.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T10:46:13.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "MainWindow.axaml.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\strah\\strah\\MainWindow.axaml.cs",
               "RelativeDocumentMoniker": "strah\\MainWindow.axaml.cs",
@@ -160,8 +190,7 @@
               "RelativeToolTip": "strah\\MainWindow.axaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T10:46:12.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T10:46:12.027Z"
             }
           ]
         }
