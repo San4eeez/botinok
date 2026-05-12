@@ -1,0 +1,44 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="strah.Window1"
+        x:CompileBindings="False"
+        Title="Window1">
+  
+
+    <Grid ShowGridLines="True" ColumnDefinitions="*,*,*" RowDefinitions="40,*,*">
+        
+        <StackPanel Grid.Column="1" Orientation="Horizontal">
+            <TextBox Grid.Column="1" Watermark="Поиск" Name="SearchBox" KeyUp="SearchBox_KeyUp"></TextBox>
+        <ComboBox SelectionChanged="SortBox_SelectionChanged" Name="SortBox" PlaceholderText="Сортировка" Grid.Column="1">
+        <ComboBoxItem>по убыванию</ComboBoxItem>
+        <ComboBoxItem>по возрастанию</ComboBoxItem>
+        </ComboBox>
+        </StackPanel>
+        
+
+        <StackPanel Grid.Column="2" Orientation="Horizontal">
+            <Button Content="Добавить товар"></Button>
+            <Button Content="Выйти"></Button>
+        </StackPanel>
+
+
+        <ListBox Grid.Row="1" Grid.ColumnSpan="3" Grid.RowSpan="3" Name="Listproduct" SelectionChanged="Listproduct_SelectionChanged">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <Image MaxHeight="200" Source="{Binding GetImage}"></Image>
+                        <TextBlock Text="{Binding Description}"></TextBlock>
+                        <TextBlock Text="{Binding Productname}"></TextBlock>
+                        <TextBlock Text="{Binding Manufacturer.Manufacturername}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+    </Grid>
+
+
+</Window>
